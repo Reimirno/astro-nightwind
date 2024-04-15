@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-//@ts-ignore no typings for nightwind
+//@ts-ignore no typing info available for nightwind
 import nightwind from "nightwind/helper";
 
 export default function NightwindSwitch() {
