@@ -17,11 +17,11 @@ npm run dev
 
 ## Dependencies
 
-This example also uses TypeScript - but that is not essential. Switching to JavaScript is easy. Typescript does not do anything in here because the Nightwind library does not have TypeScript support.
+This example uses TypeScript - but that is not essential. Switching to JavaScript is easy. Typescript does not do anything in here because the Nightwind library does not have TypeScript support.
 
 Tailwind is of course integrated using the official [Astro Tailwind plugin](https://docs.astro.build/en/guides/integrations-guide/tailwind/).
 
-This example also assumes you uses at least one UI Framework with Astro. This example uses [React](https://docs.astro.build/en/guides/integrations-guide/react/).
+This example assumes you uses at least one UI Framework with Astro. This example uses [React](https://docs.astro.build/en/guides/integrations-guide/react/).
 
 ## Main Files
 
